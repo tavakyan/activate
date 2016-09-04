@@ -74,6 +74,7 @@
   },
   "standard": {
     "parser": "babel-eslint",
+    "ignore": "/migrations/*",
     "globals": [
       "describe",
       "it",
